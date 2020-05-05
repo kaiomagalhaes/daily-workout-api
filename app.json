@@ -1,6 +1,6 @@
 {
   "name": "[Purpose] Automation",
   "description": "A base project to deploy your automations",
-  "repository": "https://github.com/codelittinc/base-automations-project",
+  "repository": "https://github.com/codelittinc/base-automations-project.git",
   "keywords": ["ruby"]
 }
