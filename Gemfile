@@ -6,4 +6,5 @@ gem "sinatra"
 
 group :development, :test do
   gem "rerun"
+  gem "dotenv"
 end

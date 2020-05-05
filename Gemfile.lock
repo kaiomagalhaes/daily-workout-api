@@ -1,6 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    dotenv (2.7.5)
     ffi (1.12.2)
     listen (3.2.1)
       rb-fsevent (~> 0.10, >= 0.10.3)
@@ -27,6 +28,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  dotenv
   rerun
   sinatra
 
