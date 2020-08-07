@@ -1,0 +1,87 @@
+[
+  {
+    "name": "Levantada tecnica",
+    "formats": [
+      {
+        "type": "time",
+        "amount": "300",
+        "weight": 5
+      },
+      {
+        "type": "quantity",
+        "amount": "20",
+        "weight": 4
+      }
+    ]
+  },
+  {
+    "name": "Flexao",
+    "formats": [
+      {
+        "type": "time",
+        "amount": "300",
+        "weight": 5
+      },
+      {
+        "type": "quantity",
+        "amount": "20",
+        "weight": 4
+      }
+    ]
+  },
+  {
+    "name": "Sprawl",
+    "formats": [
+      {
+        "type": "quantity",
+        "amount": "10",
+        "weight": 2
+      }
+    ]
+  },
+  {
+    "name": "Sprawl e Flexao",
+    "formats": [
+      {
+        "type": "time",
+        "amount": "300",
+        "weight": 5
+      },
+      {
+        "type": "quantity",
+        "amount": "10",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "name": "Sprawl e Double leg",
+    "formats": [
+      {
+        "type": "time",
+        "amount": "300",
+        "weight": 5
+      },
+      {
+        "type": "quantity",
+        "amount": "10",
+        "weight": 3
+      }
+    ]
+  },
+  {
+    "name": "Double leg",
+    "formats": [
+      {
+        "type": "time",
+        "amount": "180",
+        "weight": 4
+      },
+      {
+        "type": "quantity",
+        "amount": "20",
+        "weight": 3
+      }
+    ]
+  }
+]

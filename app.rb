@@ -1,4 +1,5 @@
 require 'sinatra'
+require './workouts'
 
 before do
   content_type :json
@@ -12,7 +13,7 @@ def render_json json
 end
 
 get '/' do
-  render_json({status: 200})
+	render_json(Workout.new.generate)
 end
 
 post '/' do
