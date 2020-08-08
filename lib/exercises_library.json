@@ -1,21 +1,52 @@
 [
   {
+    "name": "Tocar o chao",
+    "formats": [
+      {
+        "type": "quantity",
+        "amount": "10",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "name": "Tocar o chao e levantar os bracos",
+    "formats": [
+      {
+        "type": "quantity",
+        "amount": "10",
+        "weight": 0
+      }
+    ]
+  },
+  {
+    "name": "Meia cambalhota",
+    "formats": [
+      {
+        "type": "quantity",
+        "amount": "10",
+        "weight": 0
+      }
+    ]
+  },
+  {
     "name": "Levantada tecnica",
     "formats": [
       {
         "type": "time",
-        "amount": "300",
-        "weight": 5
+        "amount": "180",
+        "weight": 2
       },
       {
         "type": "quantity",
         "amount": "20",
-        "weight": 4
+        "weight": 1
       }
     ]
   },
   {
     "name": "Flexao",
+    "combo_types": ["plus", "superset", "russian"],
     "formats": [
       {
         "type": "time",
@@ -31,6 +62,7 @@
   },
   {
     "name": "Sprawl",
+    "combo_types": ["plus", "superset", "russian"],
     "formats": [
       {
         "type": "quantity",
@@ -40,37 +72,8 @@
     ]
   },
   {
-    "name": "Sprawl e Flexao",
-    "formats": [
-      {
-        "type": "time",
-        "amount": "300",
-        "weight": 5
-      },
-      {
-        "type": "quantity",
-        "amount": "10",
-        "weight": 3
-      }
-    ]
-  },
-  {
-    "name": "Sprawl e Double leg",
-    "formats": [
-      {
-        "type": "time",
-        "amount": "300",
-        "weight": 5
-      },
-      {
-        "type": "quantity",
-        "amount": "10",
-        "weight": 3
-      }
-    ]
-  },
-  {
     "name": "Double leg",
+    "combo_types": ["plus"],
     "formats": [
       {
         "type": "time",
